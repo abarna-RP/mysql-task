@@ -73,4 +73,4 @@ The following queries are included in this project:
     SELECT AVG(total_amount) AS average_order_total
     FROM orders;
     ```
-    ![alt image]()
+    ![alt image](https://github.com/abarna-RP/mysql-task/blob/main/output%20mysql.png)
